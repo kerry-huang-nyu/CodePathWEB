@@ -1,0 +1,247 @@
+{
+    "drinks": [
+      {
+        "name": "almond mocha blended cold brew",
+        "ingredients": {
+          "temp": "cold",
+          "syrup": "mocha",
+          "milk": "almond",
+          "blended": "yes"
+        }
+      },
+      {
+        "name": "doubleshot espresso",
+        "ingredients": {
+          "temp": "hot",
+          "syrup": "none",
+          "milk": "cow",
+          "blended": "no"
+        }
+      },
+      {
+        "name": "flat white",
+        "ingredients": {
+          "temp": "hot",
+          "syrup": "none",
+          "milk": "cow",
+          "blended": "no"
+        }
+      },
+      {
+        "name": "salted caramel frappuccino",
+        "ingredients": {
+          "temp": "cold",
+          "syrup": "caramel",
+          "milk": "cow",
+          "blended": "yes"
+        }
+      },
+      {
+        "name": "iced blonde oat caffe latte",
+        "ingredients": {
+          "temp": "cold",
+          "syrup": "none",
+          "milk": "oat",
+          "blended": "no"
+        }
+      },
+      {
+        "name": "nitro cold brew",
+        "ingredients": {
+          "temp": "cold",
+          "syrup": "none",
+          "milk": "none",
+          "blended": "no"
+        }
+      },
+      {
+        "name": "iced almond pink drink",
+        "ingredients": {
+          "temp": "cold",
+          "syrup": "none",
+          "milk": "almond",
+          "blended": "no"
+        }
+      },
+      {
+        "name": "eggnog latte refresher",
+        "ingredients": {
+          "temp": "cold",
+          "syrup": "vanilla",
+          "milk": "cow",
+          "blended": "no"
+        }
+      },
+      {
+        "name": "eggnog latte",
+        "ingredients": {
+          "temp": "hot",
+          "syrup": "other",
+          "milk": "cow",
+          "blended": "no"
+        }
+      },
+      {
+        "name": "toffee almond cappuccino",
+        "ingredients": {
+          "temp": "hot",
+          "syrup": "toffee",
+          "milk": "almond",
+          "blended": "no"
+        }
+      },
+      {
+        "name": "skinny mocha frappuccino",
+        "ingredients": {
+          "temp": "cold",
+          "syrup": "mocha",
+          "milk": "cow",
+          "blended": "yes"
+        }
+      },
+      {
+        "name": "steamed apple juice",
+        "ingredients": {
+          "temp": "hot",
+          "syrup": "none",
+          "milk": "none",
+          "blended": "no"
+        }
+      },
+      {
+        "name": "iced vanilla oat latte",
+        "ingredients": {
+          "temp": "cold",
+          "syrup": "vanilla",
+          "milk": "oat",
+          "blended": "no"
+        }
+      },
+      {
+        "name": "nitro sweet cream cold brew frappuccino",
+        "ingredients": {
+          "temp": "cold",
+          "syrup": "none",
+          "milk": "cow",
+          "blended": "yes"
+        }
+      },
+      {
+        "name": "unicorn frappuccino",
+        "ingredients": {
+          "temp": "cold",
+          "syrup": "none",
+          "milk": "cow",
+          "blended": "yes"
+        }
+      },
+      {
+        "name": "chile almond mocha",
+        "ingredients": {
+          "temp": "hot",
+          "syrup": "mocha",
+          "milk": "almond",
+          "blended": "no"
+        }
+      },
+      {
+        "name": "chantico",
+        "ingredients": {
+          "temp": "hot",
+          "syrup": "none",
+          "milk": "cow",
+          "blended": "no"
+        }
+      },
+      {
+        "name": "almond protein blended caramel cold brew",
+        "ingredients": {
+          "temp": "cold",
+          "syrup": "caramel",
+          "milk": "almond",
+          "blended": "yes"
+        }
+      },
+      {
+        "name": "dark barrel oat latte",
+        "ingredients": {
+          "temp": "hot",
+          "syrup": "other",
+          "milk": "oat",
+          "blended": "no"
+        }
+      },
+      {
+        "name": "tie dye frappuccino",
+        "ingredients": {
+          "temp": "cold",
+          "syrup": "none",
+          "milk": "cow",
+          "blended": "yes"
+        }
+      },
+      {
+        "name": "iced teavana shaken strawberry green tea infusion lemonade",
+        "ingredients": {
+          "temp": "cold",
+          "syrup": "none",
+          "milk": "none",
+          "blended": "no"
+        }
+      },
+      {
+        "name": "eggnog latte frappuccino",
+        "ingredients": {
+          "temp": "cold",
+          "syrup": "other",
+          "milk": "cow",
+          "blended": "yes"
+        }
+      },
+      {
+        "name": "iced oat milk",
+        "ingredients": {
+          "temp": "cold",
+          "syrup": "none",
+          "milk": "oat",
+          "blended": "no"
+        }
+      },
+      {
+        "name": "vanilla latte",
+        "ingredients": {
+          "temp": "hot",
+          "syrup": "vanilla",
+          "milk": "cow",
+          "blended": "no"
+        }
+      },
+      {
+        "name": "hot chocolate",
+        "ingredients": {
+          "temp": "hot",
+          "syrup": "none",
+          "milk": "cow",
+          "blended": "no"
+        }
+      },
+      {
+        "name": "pumpkin spice latte",
+        "ingredients": {
+          "temp": "hot",
+          "syrup": "other",
+          "milk": "cow",
+          "blended": "no"
+        }
+      },
+      {
+        "name": "java chip almond frappuccino",
+        "ingredients": {
+          "temp": "cold",
+          "syrup": "mocha",
+          "milk": "almond",
+          "blended": "yes"
+        }
+      }
+    ]
+  }
