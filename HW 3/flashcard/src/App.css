@@ -1,0 +1,78 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+
+.card {
+  /*background-color: black;*/
+  border-radius: 0.5cm;
+  height: 90%;
+
+  width: calc(80vw);
+  text-align: center;
+
+  padding: 2em;
+  margin: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+
+  border: 1px solid transparent; /* Set initial border */
+  transition: border-color 0.1s, border-width 0.3s; /* Add transition for smooth effect */
+}
+
+.card:hover{
+  border-width: 3px;
+  border-color: white;
+  opacity: 80%;
+  cursor: pointer;
+}
+
+.mainblock {
+  background-color: #eabcab;
+
+  height: calc(5/9 * width);
+  margin: 0 auto;
+  margin-top: 20px;
+
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  
+  position: relative;
+  flex-direction: column;
+ 
+  border: 3px solid;
+  border-color: black;
+  border-radius: 0.5cm;
+
+}
+button{
+  margin: 10px;
+  display: inline;
+}
+
+.buttonContain{
+  margin-bottom: 10px;
+  margin-top: 0 auto;
+}
+
+.label{
+  margin: 10px;
+  display: inline;
+  background-color: white;
+  color:#eabcab;
+  margin-top: 20px;
+}
+
+.label:hover{
+  cursor: default;
+}
+
+
