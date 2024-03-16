@@ -64,15 +64,42 @@ button{
 }
 
 .label{
+  border: none; /* Remove borders */
+  color: white; /* White text color */
+  padding: 10px 20px; /* Padding for text */
+  text-align: center; /* Center-align text */
+  text-decoration: none; /* Remove default text decoration */
+  font-size: 16px; /* Font size */
+  border-radius: 5px; /* Rounded corners */
+
   margin: 10px;
   display: inline;
   background-color: white;
   color:#eabcab;
   margin-top: 20px;
+
+  font-weight: bold;
 }
 
 .label:hover{
   cursor: default;
+}
+
+.unknown{
+  border:3px solid beige;
+}
+
+.correct{
+  border:3px solid #D6DE16;
+}
+
+.wrong{
+  border:3px solid#fb5656;
+}
+
+#answer{
+  border-radius: 10px; /* Adjust the value to change the roundness */
+  padding: 2px; /* Optional: Add padding for better appearance */
 }
 
 
