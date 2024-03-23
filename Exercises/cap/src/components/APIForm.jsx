@@ -1,4 +1,4 @@
-//import APIForm from './Components/APIform';
+
 
 const APIForm = ({inputs, handleChange, onSubmit}) => {
         
@@ -32,9 +32,9 @@ const APIForm = ({inputs, handleChange, onSubmit}) => {
                 className="textbox"
                 />
                 <br></br>
-                <br></br>
                 <p> {inputsInfo[index]}</p>
             </li>
+
             ))}
         </form>
 
