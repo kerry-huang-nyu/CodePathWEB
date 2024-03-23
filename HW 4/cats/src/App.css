@@ -1,0 +1,109 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+
+}
+
+.center_panel{
+  background-image: url('./assets/cat_background.jpg');
+  background-size: cover; /* Adjusts the size of the background image to cover the entire element */
+  background-repeat: no-repeat; /* Prevents the background image from repeating */
+  background-position: center; /* Positions the background image at the center of the element */
+  /* You can also add more properties like background-color, border, etc. */
+
+
+  height: 100%;
+  width: 50%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  position: relative;
+  flex-direction: column;
+ 
+  /* size should be to top and then flex */
+}
+
+.side_panel{
+  background-image: url('./assets/pushine.jpg');
+  background-size: contain; /* Adjusts the size of the background image to cover the entire element */
+  background-repeat: repeat; /* Prevents the background image from repeating */
+  background-position: center; /* Positions the background image at the center of the element */
+  /* You can also add more properties like background-color, border, etc. */
+
+  height: 100%;
+  width: 25%;
+
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  
+  position: relative;
+  flex-direction: column;
+ 
+  /* size should be to top and then flex */
+}
+
+.selector{
+  align-items: center;
+  justify-items: center;
+
+  overflow: hidden; /* Hide any content that overflows the container */
+
+}
+
+.rounded-img{
+  width: 80%; /* Make the width of the image 100% of its container */
+  height: 60%; /* Make the height of the image 100% of its container */
+  object-fit: cover; /* Fill the container while preserving aspect ratio */
+
+  border-radius: 10px;
+  border: 3px solid black;
+  margin: 10px;
+}
+
+.banned{
+  background-color: #EC9477;
+  color: #FFF1E6;
+  margin: 5px;
+
+}
+
+.label{
+  margin: 10px;
+  display: inline;
+  background-color: #FFF1E6;
+  color:#825F53;
+  margin-top: 20px;
+}
+
+.label:hover{
+  cursor:default;
+}
+
+.sidebartitle{
+  margin: 10px;
+  display: inline;
+  background-color: #825F53;
+  color:#FFF1E6;
+  margin-top: 20px;
+
+  /*#BDADA0*/
+
+
+}
+
+.sidebartitle:hover{
+  cursor:default;
+}

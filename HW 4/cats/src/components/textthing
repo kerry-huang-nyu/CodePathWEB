@@ -1,0 +1,204 @@
+0
+: 
+{weight: {…}, id: 'abys', name: 'Abyssinian', cfa_url: 'http://cfa.org/Breeds/BreedsAB/Abyssinian.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/abyssinian', …}
+1
+: 
+{weight: {…}, id: 'aege', name: 'Aegean', vetstreet_url: 'http://www.vetstreet.com/cats/aegean-cat', temperament: 'Affectionate, Social, Intelligent, Playful, Active', …}
+2
+: 
+{weight: {…}, id: 'abob', name: 'American Bobtail', cfa_url: 'http://cfa.org/Breeds/BreedsAB/AmericanBobtail.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/american-bobtail', …}
+3
+: 
+{weight: {…}, id: 'acur', name: 'American Curl', cfa_url: 'http://cfa.org/Breeds/BreedsAB/AmericanCurl.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/american-curl', …}
+4
+: 
+{weight: {…}, id: 'asho', name: 'American Shorthair', cfa_url: 'http://cfa.org/Breeds/BreedsAB/AmericanShorthair.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/american-shorthair', …}
+5
+: 
+{weight: {…}, id: 'awir', name: 'American Wirehair', cfa_url: 'http://cfa.org/Breeds/BreedsAB/AmericanWirehair.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/american-wirehair', …}
+6
+: 
+{weight: {…}, id: 'amau', name: 'Arabian Mau', vcahospitals_url: '', temperament: 'Affectionate, Agile, Curious, Independent, Playful, Loyal', …}
+7
+: 
+{weight: {…}, id: 'amis', name: 'Australian Mist', temperament: 'Lively, Social, Fun-loving, Relaxed, Affectionate', origin: 'Australia', …}
+8
+: 
+{weight: {…}, id: 'bali', name: 'Balinese', cfa_url: 'http://cfa.org/Breeds/BreedsAB/Balinese.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/balinese', …}
+9
+: 
+{weight: {…}, id: 'bamb', name: 'Bambino', temperament: 'Affectionate, Lively, Friendly, Intelligent', origin: 'United States', …}
+10
+: 
+{weight: {…}, id: 'beng', name: 'Bengal', cfa_url: 'http://cfa.org/Breeds/BreedsAB/Bengal.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/bengal', …}
+11
+: 
+{weight: {…}, id: 'birm', name: 'Birman', cfa_url: 'http://cfa.org/Breeds/BreedsAB/Birman.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/birman', …}
+12
+: 
+{weight: {…}, id: 'bomb', name: 'Bombay', cfa_url: 'http://cfa.org/Breeds/BreedsAB/Bombay.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/bombay', …}
+13
+: 
+{weight: {…}, id: 'bslo', name: 'British Longhair', temperament: 'Affectionate, Easy Going, Independent, Intelligent, Loyal, Social', origin: 'United Kingdom', …}
+14
+: 
+{weight: {…}, id: 'bsho', name: 'British Shorthair', cfa_url: 'http://cfa.org/Breeds/BreedsAB/BritishShorthair.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/british-shorthair', …}
+15
+: 
+{weight: {…}, id: 'bure', name: 'Burmese', cfa_url: 'http://cfa.org/Breeds/BreedsAB/Burmese.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/burmese', …}
+16
+: 
+{weight: {…}, id: 'buri', name: 'Burmilla', cfa_url: 'http://cfa.org/Breeds/BreedsAB/Burmilla.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/burmilla', …}
+17
+: 
+{weight: {…}, id: 'cspa', name: 'California Spangled', temperament: 'Affectionate, Curious, Intelligent, Loyal, Social', origin: 'United States', …}
+18
+: 
+{weight: {…}, id: 'ctif', name: 'Chantilly-Tiffany', temperament: 'Affectionate, Demanding, Interactive, Loyal', origin: 'United States', …}
+19
+: 
+{weight: {…}, id: 'char', name: 'Chartreux', cfa_url: 'http://cfa.org/Breeds/BreedsCJ/Chartreux.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/chartreux', …}
+20
+: 
+{weight: {…}, id: 'chau', name: 'Chausie', temperament: 'Affectionate, Intelligent, Playful, Social', origin: 'Egypt', …}
+21
+: 
+{weight: {…}, id: 'chee', name: 'Cheetoh', temperament: 'Affectionate, Gentle, Intelligent, Social', origin: 'United States', …}
+22
+: 
+{weight: {…}, id: 'csho', name: 'Colorpoint Shorthair', cfa_url: 'http://cfa.org/Breeds/BreedsCJ/ColorpointShorthair.aspx', vcahospitals_url: 'https://vcahospitals.com/know-your-pet/cat-breeds/colorpoint-shorthair', …}
+23
+: 
+{weight: {…}, id: 'crex', name: 'Cornish Rex', cfa_url: 'http://cfa.org/Breeds/BreedsCJ/CornishRex.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/cornish-rex', …}
+24
+: 
+{weight: {…}, id: 'cymr', name: 'Cymric', vetstreet_url: 'http://www.vetstreet.com/cats/cymric', temperament: 'Gentle, Loyal, Intelligent, Playful', …}
+25
+: 
+{weight: {…}, id: 'cypr', name: 'Cyprus', temperament: 'Affectionate, Social', origin: 'Cyprus', …}
+26
+: 
+{weight: {…}, id: 'drex', name: 'Devon Rex', cfa_url: 'http://cfa.org/Breeds/BreedsCJ/DevonRex.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/devon-rex', …}
+27
+: 
+{weight: {…}, id: 'dons', name: 'Donskoy', temperament: 'Playful, affectionate, loyal, social', origin: 'Russia', …}
+28
+: 
+{weight: {…}, id: 'lihu', name: 'Dragon Li', vetstreet_url: 'http://www.vetstreet.com/cats/li-hua', temperament: 'Intelligent, Friendly, Gentle, Loving, Loyal', …}
+29
+: 
+{weight: {…}, id: 'emau', name: 'Egyptian Mau', cfa_url: 'http://cfa.org/Breeds/BreedsCJ/EgyptianMau.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/egyptian-mau', …}
+30
+: 
+{weight: {…}, id: 'ebur', name: 'European Burmese', cfa_url: 'http://cfa.org/Breeds/BreedsCJ/EuropeanBurmese.aspx', temperament: 'Sweet, Affectionate, Loyal', …}
+31
+: 
+{weight: {…}, id: 'esho', name: 'Exotic Shorthair', cfa_url: 'http://cfa.org/Breeds/BreedsCJ/Exotic.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/exotic-shorthair', …}
+32
+: 
+{weight: {…}, id: 'hbro', name: 'Havana Brown', cfa_url: 'http://cfa.org/Breeds/BreedsCJ/HavanaBrown.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/havana-brown', …}
+33
+: 
+{weight: {…}, id: 'hima', name: 'Himalayan', vetstreet_url: 'http://www.vetstreet.com/cats/himalayan', vcahospitals_url: 'https://vcahospitals.com/know-your-pet/cat-breeds/himalayan', …}
+34
+: 
+{weight: {…}, id: 'jbob', name: 'Japanese Bobtail', cfa_url: 'http://cfa.org/Breeds/BreedsCJ/JapaneseBobtail.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/japanese-bobtail', …}
+35
+: 
+{weight: {…}, id: 'java', name: 'Javanese', vetstreet_url: 'http://www.vetstreet.com/cats/javanese', vcahospitals_url: 'https://vcahospitals.com/know-your-pet/cat-breeds/javanese', …}
+36
+: 
+{weight: {…}, id: 'khao', name: 'Khao Manee', cfa_url: 'http://cfa.org/Breeds/BreedsKthruR/KhaoManee.aspx', temperament: 'Calm, Relaxed, Talkative, Playful, Warm', …}
+37
+: 
+{weight: {…}, id: 'kora', name: 'Korat', cfa_url: 'http://cfa.org/Breeds/BreedsKthruR/Korat.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/korat', …}
+38
+: 
+{weight: {…}, id: 'kuri', name: 'Kurilian', vetstreet_url: 'http://www.vetstreet.com/cats/kurilian-bobtail', temperament: 'Independent, highly intelligent, clever, inquisitive, sociable, playful, trainable', …}
+39
+: 
+{weight: {…}, id: 'lape', name: 'LaPerm', cfa_url: 'http://cfa.org/Breeds/BreedsKthruR/LaPerm.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/laperm', …}
+40
+: 
+{weight: {…}, id: 'mcoo', name: 'Maine Coon', cfa_url: 'http://cfa.org/Breeds/BreedsKthruR/MaineCoon.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/maine-coon', …}
+41
+: 
+{weight: {…}, id: 'mala', name: 'Malayan', temperament: 'Affectionate, Interactive, Playful, Social', origin: 'United Kingdom', …}
+42
+: 
+{weight: {…}, id: 'manx', name: 'Manx', cfa_url: 'http://cfa.org/Breeds/BreedsKthruR/Manx.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/manx', …}
+43
+: 
+{weight: {…}, id: 'munc', name: 'Munchkin', vetstreet_url: 'http://www.vetstreet.com/cats/munchkin', temperament: 'Agile, Easy Going, Intelligent, Playful', …}
+44
+: 
+{weight: {…}, id: 'nebe', name: 'Nebelung', temperament: 'Gentle, Quiet, Shy, Playful', origin: 'United States', …}
+45
+: 
+{weight: {…}, id: 'norw', name: 'Norwegian Forest Cat', cfa_url: 'http://cfa.org/Breeds/BreedsKthruR/NorwegianForestCat.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/norwegian-forest-cat', …}
+46
+: 
+{weight: {…}, id: 'ocic', name: 'Ocicat', cfa_url: 'http://cfa.org/Breeds/BreedsKthruR/Ocicat.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/ocicat', …}
+47
+: 
+{weight: {…}, id: 'orie', name: 'Oriental', cfa_url: 'http://cfa.org/Breeds/BreedsKthruR/Oriental.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/oriental', …}
+48
+: 
+{weight: {…}, id: 'pers', name: 'Persian', cfa_url: 'http://cfa.org/Breeds/BreedsKthruR/Persian.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/persian', …}
+49
+: 
+{weight: {…}, id: 'pixi', name: 'Pixie-bob', vetstreet_url: 'http://www.vetstreet.com/cats/pixiebob', temperament: 'Affectionate, Social, Intelligent, Loyal', …}
+50
+: 
+{weight: {…}, id: 'raga', name: 'Ragamuffin', cfa_url: 'http://cfa.org/Breeds/BreedsKthruR/Ragamuffin.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/ragamuffin', …}
+51
+: 
+{weight: {…}, id: 'ragd', name: 'Ragdoll', cfa_url: 'http://cfa.org/Breeds/BreedsKthruR/Ragdoll.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/ragdoll', …}
+52
+: 
+{weight: {…}, id: 'rblu', name: 'Russian Blue', cfa_url: 'http://cfa.org/Breeds/BreedsKthruR/RussianBlue.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/russian-blue-nebelung', …}
+53
+: 
+{weight: {…}, id: 'sava', name: 'Savannah', vetstreet_url: 'http://www.vetstreet.com/cats/savannah', temperament: 'Curious, Social, Intelligent, Loyal, Outgoing, Adventurous, Affectionate', …}
+54
+: 
+{weight: {…}, id: 'sfol', name: 'Scottish Fold', cfa_url: 'http://cfa.org/Breeds/BreedsSthruT/ScottishFold.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/scottish-fold-highland-fold', …}
+55
+: 
+{weight: {…}, id: 'srex', name: 'Selkirk Rex', cfa_url: 'http://cfa.org/Breeds/BreedsSthruT/SelkirkRex.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/selkirk-rex', …}
+56
+: 
+{weight: {…}, id: 'siam', name: 'Siamese', cfa_url: 'http://cfa.org/Breeds/BreedsSthruT/Siamese.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/siamese', …}
+57
+: 
+{weight: {…}, id: 'sibe', name: 'Siberian', cfa_url: 'http://cfa.org/Breeds/BreedsSthruT/Siberian.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/siberian', …}
+58
+: 
+{weight: {…}, id: 'sing', name: 'Singapura', cfa_url: 'http://cfa.org/Breeds/BreedsSthruT/Singapura.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/singapura', …}
+59
+: 
+{weight: {…}, id: 'snow', name: 'Snowshoe', temperament: 'Affectionate, Social, Intelligent, Sweet-tempered', origin: 'United States', …}
+60
+: 
+{weight: {…}, id: 'soma', name: 'Somali', cfa_url: 'http://cfa.org/Breeds/BreedsSthruT/Somali.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/somali', …}
+61
+: 
+{weight: {…}, id: 'sphy', name: 'Sphynx', cfa_url: 'http://cfa.org/Breeds/BreedsSthruT/Sphynx.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/sphynx', …}
+62
+: 
+{weight: {…}, id: 'tonk', name: 'Tonkinese', cfa_url: 'http://cfa.org/Breeds/BreedsSthruT/Tonkinese.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/tonkinese', …}
+63
+: 
+{weight: {…}, id: 'toyg', name: 'Toyger', vetstreet_url: 'http://www.vetstreet.com/cats/toyger', temperament: 'Playful, Social, Intelligent', …}
+64
+: 
+{weight: {…}, id: 'tang', name: 'Turkish Angora', cfa_url: 'http://cfa.org/Breeds/BreedsSthruT/TurkishAngora.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/turkish-angora', …}
+65
+: 
+{weight: {…}, id: 'tvan', name: 'Turkish Van', cfa_url: 'http://cfa.org/Breeds/BreedsSthruT/TurkishVan.aspx', vetstreet_url: 'http://www.vetstreet.com/cats/turkish-van', …}
+66
+: 
+{weight: {…}, id: 'ycho', name: 'York Chocolate', temperament: 'Playful, Social, Intelligent, Curious, Friendly', origin: 'United States', …}
+length
+: 
+67
