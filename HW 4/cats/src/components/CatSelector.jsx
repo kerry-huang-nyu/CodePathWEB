@@ -38,7 +38,7 @@ const CatSelector = (prod) => {
 
     const renderBannedList = () =>{
         return banned.map((word, index) => (
-            <button className="label">{word}</button>
+            <button key={index} className="label">{word}</button>
           ));
     }
 
