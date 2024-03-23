@@ -50,7 +50,7 @@ const App = () => {
       var tempState = [myObject[ind]['Question'], myObject[ind]['Answer'], myObject[ind]['Correct']];
       setCount(prevCount => prevCount + 1) // Return the updated state value);
       setState(tempState);
-      setCurr(count + 1); //why can't i just use setCurr(prevCount)
+      setCurr(prevCount => prevCount); //why can't i just use setCurr(prevCount)
 
       console.log("now count is " +  count);
       console.log("now curr is " +  curr);
